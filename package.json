@@ -1,0 +1,23 @@
+{
+  "name": "nim-utils",
+  "version": "1.0.0",
+  "description": "Utilidades para el proyecto NIM",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:frantello/nim-utils"
+  },
+  "keywords": [
+    "Utilidades",
+    "NIM"
+  ],
+  "author": "José Francisco Tello Ropero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frantello/nim-utils/issues"
+  },
+  "homepage": "https://github.com/frantello/nim-utils"
+}
